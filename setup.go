@@ -1,6 +1,7 @@
 package tplug
 
 import (
+	"html/template"
 	"os"
 	"path/filepath"
 
