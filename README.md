@@ -1,0 +1,2 @@
+# tplug
+Caddy plugin test.
