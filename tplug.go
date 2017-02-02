@@ -3,6 +3,8 @@ package tplug
 import (
 	"bytes"
 	"net/http"
+
+	"github.com/mholt/caddy/caddyhttp/httpserver"
 )
 
 type TPlug struct {
